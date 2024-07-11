@@ -21,8 +21,11 @@ My name is **Prashant**. I am a passionate software developer with a strong focu
 - 🌐 [LinkedIn](https://www.linkedin.com/in/prashant-kumar-koli/)
 - 📧 [Email](mailto:prashant.kumar.koli@gmail.com)
 
-### Fun Fact 🤓
-Do you know the world's first programer was a woman named Ada Lovelace, may be that's why it's difficult to understand code sometimes.
+### Jokes 🤓
+- Why do programmers prefer dark mode? Because light attracts bugs!
+- Debugging: Being the detective in a crime movie where you are also the murderer.
+- Commenting your code is like cleaning your room. It may take time, but it's easier to find things later.
+- A programmer had a problem. He thought to solve it with recursion. Now he has two problems.
 
 <!---
 PrashantKoli-21/PrashantKoli-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
