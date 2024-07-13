@@ -18,7 +18,7 @@ My name is **Prashant**. I am a passionate software developer with a strong focu
 
 ### Get In Touch:
  📫 If you want, you can reach out to me via-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/prashant-kumar-koli/))
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-kumar-koli/)
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prashant.kumar.koli@gmail.com)
 
 ### Jokes 🤓
