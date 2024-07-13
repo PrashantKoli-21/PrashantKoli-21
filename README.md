@@ -9,12 +9,12 @@ My name is **Prashant**. I am a passionate software developer with a strong focu
 - 📚 Continuous learning and improvement are my driving forces. I'm always exploring new frameworks and tools to enhance my skill set.
 
 ### My Skills:
-- **Programing Languages**- C, C#, C++, Python, Java, Java Script, Type Script
-- **Frameworks**- React, React Native, NextJs
-- **Databases**- PostgreSQL, MySQL, MongoDB
-- **Testing Tools**- Jest
-- **Project Management Tools**- Github, Jira
-- **Operating Systems**- Windows, Linux
+- **Programing Languages**- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white), ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white), ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white), ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+- **Frameworks**- ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB), ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB), ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+- **Databases**- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- **Testing Tools**- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- **Project Management Tools**- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white), ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+- **Operating Systems**- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white), ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### Get In Touch:
  📫 If you want, you can reach out to me via-
